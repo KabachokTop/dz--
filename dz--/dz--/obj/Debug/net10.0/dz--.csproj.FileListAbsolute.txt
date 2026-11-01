@@ -1,0 +1,15 @@
+D:\Rob_material\C#\dz--\dz--\bin\Debug\net10.0\dz--.exe
+D:\Rob_material\C#\dz--\dz--\bin\Debug\net10.0\dz--.deps.json
+D:\Rob_material\C#\dz--\dz--\bin\Debug\net10.0\dz--.runtimeconfig.json
+D:\Rob_material\C#\dz--\dz--\bin\Debug\net10.0\dz--.dll
+D:\Rob_material\C#\dz--\dz--\bin\Debug\net10.0\dz--.pdb
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\dz--.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\dz--.AssemblyInfoInputs.cache
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\dz--.AssemblyInfo.cs
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\dz--.csproj.CoreCompileInputs.cache
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\dz--.dll
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\refint\dz--.dll
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\dz--.pdb
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\dz--.genruntimeconfig.cache
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\ref\dz--.dll
+D:\Rob_material\C#\dz--\dz--\obj\Debug\net10.0\dz--.csproj.Up2Date
